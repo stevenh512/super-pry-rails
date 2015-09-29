@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQIcBAABAgAGBQJVLM70AAoJELhD5v2NN/3pQHAQALEogeTzF2ZSjMed5xv24SGp
-qOESOZC9uWc4LgfKpexw6Kgn5AcLf6RPRlIaaKutOlBcxQMZp5KAlap1SpdBOawO
-EH1vEi7fpERkr8ek4nH1tuiBGSwmai/yXHs4XF+2x9dR8v9Mj+Bx4wtW7tztjTDI
-7LHeh8ujNCPo6UxxMwIui37C/Nvfw/3SPOghoQPPojN9XORMoSL3Z+7kjQyLn7om
-R0EUcwQ1xNUhyFi/Dt5CPg6XmGcZ/m4Yn2fcYNwlld2wLK5Y6JMTNdVJDN3GWysV
-TiL8rGwKOsA4AgRqBqno9dSXFROm/qWwBemyJaCThuTBBpt9u7h9wncow4utdl9f
-6vEEDLf3sdKCcxMNz0XAWu7FxHT836dcoO9dMSuZVDP7rHA3Ovm/r/mr7SbV9Xf2
-Rf2U2NffK4l7KKkQ5fB7tJ2DYSHBohkXBy70QZP184GNa9tw+kSO4EYNCVc9XUYl
-qLEmF+qL0eQkpL1APZwNHntDEA/+i/2jRGQho/es/5i18tn5rn99deqDK4Fu/1np
-s+nIu2AvhJ85IbZKcMNlKqAB/Pc0oT68rH1gwonlphVWP7XDKdcMOMHxDDu9sfWS
-H3sNppLI338KlrJiPcEZFug6e5HipqW5oHkEW4KxysASVtGaz02juZgME/EVnxoK
-GxE535dYGggf7fQDtCL4
-=9aRY
+iQIcBAABAgAGBQJWCiruAAoJELhD5v2NN/3pp64P+gK4x1/jjSaajGNDeE7aX2hk
+aLOaX47JBMJNSVemf7LRJuEpq4lsVo7GvcD9sZRJzL0USuizNgzMmyQFleVlF2AT
+NslxVzLDRUZ5y4/TFyOwZtejaDQwwboBZ3Gd9u66rPBhgwpfI1XEOXTAQqGn4Pkn
+XmS6RWIM0BjR449OncY2HrNauKLy3jMjPFM9VA9j77K7Nf2ommVGYpnx9SzgK+hB
+S7HL7sOw3G9xxguDahfzLQyYIt09/LBJ9tFANl3mwTxrkqwYohcToAoRwiUHPkCK
+FG9VDrZuFGze424RnFXKtImgR8f+ga/fZEMgLl38snD+CK9YAQ2hcv/EzS7jSDsh
+gFsmaFMzLsyApb+omY8vxo1svlyacSWTnzhI8lUT3tPX0rogZ8EjKhM5CiS2bbH0
+al5NYb2Nqy93q4Dv/XEoX7LMS20uCUgWHuEPAhkCDz+sMJcE1klsjSGh7CVqDhiW
+LLgSrl0gVD5wPXqW87H5A7Yq3Y5NqGRX6x654RfEG4XLYAuLFjlS38RKYt8gCvA2
+eyV0eSywCiDlQx2+yai9O048BpuI5wC4502w1TgcSyxNll9c9x3KqB6GAOn3fMMF
+CYTXpCXNaUySDo6NvC++UPyYMPwI8pljFoUb3dAZeyJP99VC++g0dG4ZyRYwybg+
+DAwMN1F6pVtJ2USRkCVy
+=cZqr
 -----END PGP SIGNATURE-----
 
 ```
@@ -36,12 +36,12 @@ size  exec  file                       contents
 153           Rakefile                 1565a2aa32cad27e159f071fc9507538f95186abde48cda943945f4aa0b82b98
               lib/                                                                                     
                 super-pry-rails/                                                                       
-85                version.rb           9dc69a20796db18295860d8c5e17346fd7f3198b32ae4c45d3d3836f17d4fc06
-124             super-pry-rails.rb     f0d18490ed507f475d391d46c7f7a7781eaca6b98a27c22cdc81889ff5e3217f
+85                version.rb           e44ae8b89aa4f3dfff995cd477c1dbb250ea9a7de3d1f1e8c8413ac9d8c2de4c
+147             super-pry-rails.rb     76897aebe76ec506dcba5abc8a390ce92553f4a5d073a00776e47e90ddd6567b
 9419          pubkey.asc               dbc732c4e2caec6b98177a5e23690b0729cde1ac97018708ca2528395827b17f
               script/                                                                                  
 25    x         bootstrap              ca2bab340cac051bbe2ace4bef1126108e91fbdf39f23f8a1636a567272ce632
-1221          super-pry-rails.gemspec  7b46dfec1e715936a7e0dbff4e6ff6866c0ce42457fcdbad7c72344dffdf2142
+1258          super-pry-rails.gemspec  105a3439c21de275f2fed239cd90b08a9ec93ab7a1124535d1cd0bf4cd1ca4ef
 ```
 
 #### Ignore

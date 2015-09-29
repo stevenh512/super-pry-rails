@@ -20,6 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'better_errors'
   spec.add_dependency 'pry-rails'
+  spec.add_dependency 'meta_request'
   spec.add_dependency 'rails-footnotes'
   spec.add_dependency 'railties'
   spec.add_dependency 'super-pry'
